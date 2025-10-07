@@ -9,7 +9,7 @@ import os
 from flask import Flask
 
 # --- DEFAULT VALUES ---
-BOT_TOKEN = "7965256274:AAF-cIBs0jmn1kZyU2g6WJAMCvsxbD8IvnM"
+BOT_TOKEN = "7965256274:AAFAO0hg2dU5IOwdGqAoL5HhHB9nP02zvqk"
 bot = telebot.TeleBot(BOT_TOKEN, parse_mode="HTML")
 
 ADMIN_USER_ID = 6820574331
